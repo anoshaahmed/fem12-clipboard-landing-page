@@ -27,7 +27,7 @@ Users should be able to:
 
 <div align="center">
 The desktop design VS My desktop solution<br>
-<a href="challenge/desktop-design.jpg" target="_blank"><img src="challenge/desktop-design.jpg" width="45%" height="60%"/></a> <a href="solution-screenshots/desktop-preview.png" target="_blank"><img src="solution-screenshots/desktop-preview.png" width="45%" height="60%"/></a>
+<a href="challenge/desktop-design.jpg" target="_blank"><img src="challenge/desktop-design.jpg" width="45%" height="60%"/></a> <a href="solution-screenshots/desktop-preview.png" target="_blank"><img src="solution-screenshots/desktop-preview.png" width="45%" height="60%" align="top"/></a>
 </div>
 
 <br>
