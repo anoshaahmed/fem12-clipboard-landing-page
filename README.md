@@ -56,9 +56,13 @@ The mobile design VS My mobile solution<br>
 
 I put a lot of new things into practice in this solution, including Sass and animations.
 
+One thing I wish I had done differently is not nesting. I don't know why I was nesting at first... maybe because I was using SCSS for the first time? But when it came to do media queries, it was so inconvenient to deal with specification etc. I'm gonna make sure not to do that again if I don't need to.
+
 ### Continued development
 
-I want to get better at writing less CSS by using properties such as `mixin` and `extend`. I had trouble with a few things, for example, everytime I would reload, it looked as if the font-size had got bigger etc. I want to find out why that happened so I can avoid that.
+One problem I kept having, with this solution, was that every time I would save, and my live server would reload, the font-size of random paragraphs would appear larger than before I saved last time. And it was weird because I didn't even touch the font-size of those paragraphs. So, I would stop the live-server and open it again, and the font-size would be back to normal. Then I'd save again, and the font-size would appear larger. Ugh, it was such a hassle. I want to find out why that happened so I can avoid that from happening again.
+
+Also, I want to get better at writing less CSS by using properties such as `mixin` and `extend`.
 
 ## Author
 
