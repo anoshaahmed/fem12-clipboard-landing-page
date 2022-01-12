@@ -29,7 +29,6 @@ html:focus-within {
 
 body {
   min-height: 100vh;
-  text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
 
@@ -86,7 +85,13 @@ body {
     font-size: 1.8rem;
     background: url(../images/bg-header-mobile.png) no-repeat top / contain;
     text-align: center;
+    // position: relative;
 }
+
+// footer {
+//     position: absolute;
+//     bottom: 0;
+// }
 
 %h {
     color: $clr-dark-gray;
@@ -177,9 +182,9 @@ footer {
     height: 5.63rem;
     width: 31.25rem;
     text-decoration: none;
-    color: rgba($clr-white,0.9);
+    color: rgba($clr-white,0.8);
     font-weight: $fw-bold;
-    padding-top: 1.75rem;
+    padding-top: 1.5rem;
     letter-spacing: 0.5px;
 }
 
@@ -447,7 +452,7 @@ footer {
     }
 
     .header__logo img {
-        margin: 13rem auto 5.75rem;
+        margin: 13rem auto 5rem;
     }
 
     .header__section {
@@ -459,7 +464,7 @@ footer {
         .desc {
             font-size: 2rem;
             max-width: 70rem;
-            margin: 1.6rem auto;
+            margin: 1.25rem auto;
             line-height: 1.5;
             letter-spacing: 0.1px;
         }
@@ -505,6 +510,10 @@ footer {
 
     .devices-img-container {
         padding: 8.25rem 1.5rem 7.25rem 1.8rem;
+    }
+
+    .heading--2 + .desc--snippets {
+        font-size: 1.8rem;
     }
 
     .desc--super {
@@ -611,7 +620,7 @@ footer {
 
 @media (min-width: 74em) {
     .snippets-container {
-        margin: 9.25rem auto 24.5rem;
+        margin: 9.25rem auto 25rem;
         flex-direction: row;
         padding: 0;
         text-align: left;
@@ -634,22 +643,31 @@ footer {
             padding: 5.25rem 25.5rem 0rem 11rem;
             .desc {
                 line-height: 3rem;
+                margin-top: 0.5rem;
             }
             div:nth-of-type(2) {
-                margin: 5.6rem 0;
+                margin: 5.25rem 0;
             }
         }
+    }
+
+    .heading--2 + .desc--access {
+        font-size: 1.8rem;
+    }
+
+    .heading--2 + .desc--super {
+        font-size: 1.8rem;
     }
 
     .companies {
         flex-direction: row;
         justify-content: center;
         gap: 9.5rem;
-        margin: 14rem auto 12rem;
+        margin: 14rem auto 11.5rem;
 
         + .heading--2 + .desc {
-            margin: 2rem auto 4.8rem;
-            font-size: 1.575rem;
+            margin: 1.5rem auto 4.8rem;
+            font-size: 1.8rem;
             line-height: 1.62;
             letter-spacing: 0.2px;
         }
