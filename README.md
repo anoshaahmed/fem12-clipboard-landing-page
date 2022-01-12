@@ -58,7 +58,7 @@ I put a lot of new things into practice in this solution, including Sass and ani
 
 ### Continued development
 
-I want to get better at writing less CSS by using properties such as `mixin` and `extend`.
+I want to get better at writing less CSS by using properties such as `mixin` and `extend`. I had trouble with a few things, for example, everytime I would reload, it looked as if the font-size had got bigger etc. I want to find out why that happened so I can avoid that.
 
 ## Author
 
