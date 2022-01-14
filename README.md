@@ -40,7 +40,7 @@ The mobile design VS My mobile solution<br>
 ### Links
 
 - Solution URL: [FrontEnd Mentor: My Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-sass-flexbox-responsive-mobilefirst-BJpuNk6fZ)
-- Live Site URL: [GitHub Page: Clipboard Landing Page](https://anoshaahmed.github.io/fem-clipboard-landing-page/)
+- Live Site URL: [GitHub Page: Clipboard Landing Page](https://anoshaahmed.github.io/fem12-clipboard-landing-page/)
 
 ## My process
 
