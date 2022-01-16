@@ -68,4 +68,5 @@ Also, I want to get better at writing less CSS by using properties such as `mixi
 
 - Website - [Anosha Ahmed](https://www.anoshaahmed.com)
 - Frontend Mentor - [@anoshaahmed](https://www.frontendmentor.io/profile/anoshaahmed)
+- LinkedIn - [Anosha Ahmed](https://www.linkedin.com/in/anoshaahmed/)
 - Twitter - [@anosha1ahmed](https://www.twitter.com/anosha1ahmed)
